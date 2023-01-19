@@ -1,0 +1,5 @@
+
+
+ git config --global user.email "shan43@purdue.edu"
+ git config --global user.name "shan43"
+
